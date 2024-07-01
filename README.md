@@ -3,7 +3,7 @@
 Here are some images of  how it look like :
 <br><br><br>
 
-![image](/TO-DO-LIST/To-do/assets/Screenshot%20(33).png)
+![image](./To-do/assets/Screenshot%20(33).png)
 
  
 <br><br>
