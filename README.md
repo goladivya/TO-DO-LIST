@@ -8,8 +8,8 @@ Here are some images of  how it look like :
  
 <br><br>
 
-![image](/TO-DO-LIST/To-do/assets/Screenshot%20(34).png)
+![image](./To-do/assets/Screenshot%20(34).png)
 
 <br><br>
 
-![image](/TO-DO-LIST/To-do/assets/Screenshot%20(35).png)
+![image](./To-do/assets/Screenshot%20(35).png)
